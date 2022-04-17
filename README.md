@@ -1,5 +1,5 @@
 # MovieCue
-An android app which shows movies name and its descripation, ratings and also we can search movies.
+An android app which shows movies name and its descripation and also we can search movies.
 <hr/>
 1.Data fetch using IMDB Public API <br/>
 2.Responsive UI <br/>
