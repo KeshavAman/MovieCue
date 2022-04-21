@@ -90,7 +90,7 @@ dependencies {
     //Coroutines testing
     testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:1.5.0"
 }
-*/
+/*
 Retrofit : A type-safe HTTP client for Android and Java. ... HTTP client for Android and Java. Introduction. Retrofit turns your HTTP API into a Java interface.
 Hilt : Hilt is a dependency injection library for Android that reduces the boilerplate of doing manual dependency injection in your project.
 Coroutines : A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
@@ -100,4 +100,4 @@ Timber ; Timber is a logging utility class built on top of Android's Log class.
 While in development, we usually end up writing lot of log statements and before the release, 
 we'll cleanup the log statements by removing them manually (even though logs can be disabled in release build).
 
-/*
+*/
