@@ -12,6 +12,9 @@ import okhttp3.Response
  *
  * @TokenInterceptorModule modifies each request by adding query parameter i.e
  * api key. So we do not require to add each time api key as a query param manually
+ 
+ Interceptors, according to the documentation, are a powerful mechanism that can monitor, 
+ rewrite, and retry the API call. So, when we make an API call, we can either monitor it or perform some tasks
  *
  */
 class TokenInterceptorModule :Interceptor {
